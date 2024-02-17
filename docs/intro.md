@@ -13,7 +13,10 @@ sidebar_position: 0
 
 # Community Support Methods
 - Discord
-::: note
+
+:::note
+
 This is **COMMUNITY** support. You may not be able to get instant replies, or the best help you can get. We __recommend__ you using our offical support methods.
+
 :::
 
